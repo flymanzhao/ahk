@@ -1,3 +1,4 @@
+; Win+Ctrl+Alt+D
 #!^d::
 ControlGet, hWnd, Hwnd,, SysListView321, ahk_class Progman
 if (hWnd = "")
